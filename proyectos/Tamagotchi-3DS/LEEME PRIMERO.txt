@@ -1,0 +1,17 @@
+TAMA CONNECTION V2 - EDICION A COLOR
+
+Ya esta en tu consola. Abrela desde el menu principal.
+
+Cruceta: elegir. A: aceptar. B: volver. START: guardar y salir.
+SELECT abre los ajustes y permite PAUSAR la crianza.
+
+Si la cierras sin pausa, el tiempo sigue pasando y puede necesitar cuidados.
+El huevo tarda aproximadamente un minuto en abrirse.
+Los juegos se desbloquean al crecer. Si no juega, revisa su peso.
+
+Sprites a color creados para nuestra version del Connection V2 de 2005.
+El infrarrojo queda para una siguiente version.
+No necesita internet ni el PC encendido.
+
+La partida se guarda en /3ds/TamaConnectionV2/mascota.dat y conserva un respaldo.
+No borres la carpeta al actualizar.

@@ -1,0 +1,19 @@
+WoW3DS 0.8.2 para tu New 2DS XL
+
+Instalador: /cias/WoW3DS-0.8.2.cia (FBI).
+El instalador solo no permite jugar: faltan los datos convertidos y una cuenta de servidor 1.12.1.
+El cliente de datos elegido es Stonetavern Classic 1.12.1, mismo origen que figura en la configuracion del conversor del autor.
+La descarga se guarda en D:\Codex-3DS\WoW-1.12.1 para dejar libre C.
+No ejecutamos el juego de Windows ni sus launchers: se extrae solo Data para convertirlo.
+El SHA256 se compara con el publicado por el origen antes de extraer.
+La interfaz de WoW3DS puede ponerse en espanol. Los datos del cliente elegido son en ingles.
+
+estado-preparacion.json indica la fase real.
+conversion-completa.log registra la conversion cuando termine la descarga.
+La preparacion automatica intentara transferir los datos si FTPD sigue en 192.168.1.123:5000. Si no, deja los datos en D para transferirlos despues.
+No se ha creado una cuenta ni se ha probado una conexion al servidor en tu consola.
+No introducir credenciales de Battle.net en un servidor comunitario.
+
+Fuentes:
+https://github.com/ponuno/WoW3DS/releases/tag/Release_0.8
+https://www.stonetavern.app/clients/
